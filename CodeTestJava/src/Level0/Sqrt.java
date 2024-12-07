@@ -1,6 +1,6 @@
 package Level0;
 
-/**
+/*
  * 제곱수 판별하기
  * 제곱근 sqrt
  */

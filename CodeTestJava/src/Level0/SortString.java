@@ -1,11 +1,12 @@
 package Level0;
 
-/**
+/*
  * 문자열 정렬하기(2)
  * toLowerCase(), 소문자로 변경
  * toCharArray(), char[]로 변경
  * Arrays.sort(), 오름차순 정렬
  */
+
 import java.io.*;
 import java.util.*;
 import java.lang.*;
@@ -33,7 +34,7 @@ public class SortString {
         Arrays.sort(c);
 
         answer = new String(c);
-        
+
         return answer;
     }
 }
