@@ -33,7 +33,7 @@ public class SortString {
         Arrays.sort(c);
 
         answer = new String(c);
-
+        
         return answer;
     }
 }
