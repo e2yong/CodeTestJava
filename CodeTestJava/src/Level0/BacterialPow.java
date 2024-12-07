@@ -31,7 +31,7 @@ public class BacterialPow {
 
     public static int solution(int n, int t) {
 
-        answer = n * (int) Math.pow(2, t);
+        // answer = n * (int) Math.pow(2, t);
         answer = n << t;
 
         return answer;
