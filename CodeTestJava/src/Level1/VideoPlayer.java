@@ -2,6 +2,8 @@ package Level1;
 
 /**
  * 동영상 재생기
+ * 문자열 시간 문제는 초 단위 int로 변형
+ * String.format() 사용, %02d - > 00
  */
 
 import java.io.*;
